@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheckboxControl</string>
+    <string name="select_any_option_s">Select any Option(s):</string>
+    <string name="cupcake">Cupcake</string>
+    <string name="donut">Donut</string>
+    <string name="eclair">Eclair</string>
+    <string name="froyo">Froyo</string>
+    <string name="gingerbread">Gingerbread</string>
+    <string name="okay">Okay</string>
+</resources>
