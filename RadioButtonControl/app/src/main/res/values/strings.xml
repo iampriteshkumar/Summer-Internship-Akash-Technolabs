@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RadioButtonControl</string>
+    <string name="select_any_one">Select any one:</string>
+    <string name="india">India</string>
+    <string name="spain">Spain</string>
+    <string name="australia">Australia</string>
+    <string name="france">France</string>
+    <string name="denmark">Denmark</string>
+    <string name="okay">Okay</string>
+</resources>
