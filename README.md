@@ -36,3 +36,18 @@
 > <img src="https://user-images.githubusercontent.com/107466722/175994882-4a840b79-4832-4b85-a8b0-69f23a305bd9.jpg" alt="RadioButtonControl03"  /> 
 > <img src="https://user-images.githubusercontent.com/107466722/175994890-2ca78428-a0ca-4eef-90fc-13a557bfe405.jpg" alt="RadioButtonControl04" height="800" />
 > <img src="https://user-images.githubusercontent.com/107466722/175994908-3a634980-3549-4893-a335-d169a76c8c3f.jpg" alt="RadioButtonControl05" height="800" />
+
+> **06. OutTextView - Android Project**
+> 
+> <img src="https://user-images.githubusercontent.com/107466722/176193718-f8a8b0be-0a0e-4b06-a7f8-83d3da793765.jpg" alt="OutTextView01"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176193736-c0d9e0ec-1db0-4058-84d7-1676e5fbac26.jpg" alt="OutTextView02"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176193752-b08f6bc7-cff4-4cd5-ab0e-2ffc825466d1.jpg" alt="OutTextView03" height="800" />
+> <img src="https://user-images.githubusercontent.com/107466722/176193766-f30e1ec2-7c24-465b-b4f9-0844b4dd11b7.jpg" alt="OutTextView04" height="800" />
+
+> **07. Add - Android Project**
+> 
+> <img src="https://user-images.githubusercontent.com/107466722/176194879-cb005122-9c8c-4bb6-81e8-fc6b86834034.jpg" alt="Add01"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176194887-8a533f79-c985-4dbb-bbc9-a4f83d4fa847.jpg" alt="Add02"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176194916-853fa748-c1f4-41e6-8f87-230674c0bba3.jpg" alt="Add03" height="800" />
+> <img src="https://user-images.githubusercontent.com/107466722/176194925-4de1825b-4b1c-466a-bb15-7bda79015e09.jpg" alt="Add04" height="800" />
+
