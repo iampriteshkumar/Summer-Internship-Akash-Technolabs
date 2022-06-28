@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OutTextView</string>
+    <string name="name">Name:</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="name_will_appear_here">Name will appear here!</string>
+    <string name="set">Set</string>
+</resources>
