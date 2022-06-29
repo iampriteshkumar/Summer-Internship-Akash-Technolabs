@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImplicitIntent</string>
+    <string name="go">Go</string>
+    <string name="open_web_link">Open Web Link!</string>
+</resources>
