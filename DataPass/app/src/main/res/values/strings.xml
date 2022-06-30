@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataPass</string>
+    <string name="enter_your_name">Enter Your Name!</string>
+    <string name="name">Name</string>
+    <string name="okay">Okay</string>
+    <string name="welcome">Welcome!</string>
+</resources>
