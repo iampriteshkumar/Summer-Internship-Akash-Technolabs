@@ -74,3 +74,26 @@
 > <img src="https://user-images.githubusercontent.com/107466722/176505901-c7cc9609-201f-4783-92d1-d17d902920a9.jpg" alt="ExplicitIntent05"  />
 > <img src="https://user-images.githubusercontent.com/107466722/176505926-0f7c3ebb-a9d8-4674-9871-f598bba67ca0.jpg" alt="ExplicitIntent06" height="600" />
 > <img src="https://user-images.githubusercontent.com/107466722/176505947-fd4606f0-9a37-4a81-ad2b-f5b0a4c95208.jpg" alt="ExplicitIntent07" height="600" />
+
+> **11. DataPass - Android Project**
+> 
+> <img src="https://user-images.githubusercontent.com/107466722/176679961-416ef53c-edab-422d-ba01-407f9e0e6091.jpg" alt="DataPass01"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176679976-b65cd1f6-8ad0-446f-b32d-e7582e8551ee.jpg" alt="DataPass02"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176679990-4514bad1-44bf-4cd3-a548-68e0a583a0e3.jpg" alt="DataPass03"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176679998-f8f5ff23-a956-4212-aa57-676c8a5e4eb3.jpg" alt="DataPass04"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176680031-9fe52336-1d8f-44d6-ab70-6bafabdd5c3e.jpg" alt="DataPass05" height="600" />
+> <img src="https://user-images.githubusercontent.com/107466722/176680039-1b9e120e-4918-4d75-878b-b4613c61c6c6.jpg" alt="DataPass06" height="600" />
+
+> **12. ListView - Android Project**
+> 
+> <img src="https://user-images.githubusercontent.com/107466722/176680550-518ff554-ac99-46af-9acb-0dd3aeacbb74.jpg" alt="ListView01"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176680562-57fc2dfe-2813-4000-8f2c-d17149b57806.jpg" alt="ListView02"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176680568-2505161e-2fd3-4149-8832-9490904ec73a.jpg" alt="ListView03" height="600" />
+> <img src="https://user-images.githubusercontent.com/107466722/176680572-87363e9d-4af3-437e-8997-1b6b3a093e4b.jpg" alt="ListView04" height="600" />
+
+> **13. GridView - Android Project**
+> 
+> <img src="https://user-images.githubusercontent.com/107466722/176681072-6ecfbe70-46ab-475d-82c3-3c53178eb421.jpg" alt="GridView01"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176681086-51e74eac-9e2a-4115-a51d-f837ec610e37.jpg" alt="GridView02"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176681104-8b21d4eb-05bf-4515-822f-92eb8b355ed0.jpg" alt="GridView03" height="600" />
+> <img src="https://user-images.githubusercontent.com/107466722/176681110-594210ea-c00a-4699-8fe2-d5693d44c0d6.jpg" alt="GridView04" height="600" />
