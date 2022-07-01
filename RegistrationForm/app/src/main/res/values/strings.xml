@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RegistrationForm</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="write_at_least_four_hobbies">Write at least four hobbies!</string>
+    <string name="register">Register</string>
+    <string name="you_entered_the_following_details">You entered the following details:</string>
+    <string name="Name">Name:</string>
+    <string name="name">name</string>
+    <string name="Email">Email:</string>
+    <string name="email01">email</string>
+    <string name="phone01">phone</string>
+    <string name="Phone">Phone:</string>
+    <string name="Password">Password:</string>
+    <string name="password01">password</string>
+    <string name="Gender">Gender:</string>
+    <string name="gender01">gender</string>
+    <string name="Hobbies">Hobbies:</string>
+    <string name="hobbies01">hobbies</string>
+</resources>
