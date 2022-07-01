@@ -97,3 +97,28 @@
 > <img src="https://user-images.githubusercontent.com/107466722/176681086-51e74eac-9e2a-4115-a51d-f837ec610e37.jpg" alt="GridView02"  /> 
 > <img src="https://user-images.githubusercontent.com/107466722/176681104-8b21d4eb-05bf-4515-822f-92eb8b355ed0.jpg" alt="GridView03" height="600" />
 > <img src="https://user-images.githubusercontent.com/107466722/176681110-594210ea-c00a-4699-8fe2-d5693d44c0d6.jpg" alt="GridView04" height="600" />
+
+> **14. LoginScreen - Android Project**
+> 
+> <img src="https://user-images.githubusercontent.com/107466722/176942465-8dd8c146-2abe-42cf-beab-c80ce6c23305.jpg" alt="LoginScreen01"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176942475-f20a984b-5d03-4985-a613-4283da9b9dee.jpg" alt="LoginScreen02"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176942488-bb002427-f63f-4ccd-a6b7-35f2764017e3.jpg" alt="LoginScreen03" height="600" />
+
+> **15. TextToast - Android Project**
+> 
+> <img src="https://user-images.githubusercontent.com/107466722/176942854-349b51f8-3f2c-4934-a43d-279e7cae05cd.jpg" alt="TextToast01"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176942861-5cb71425-d220-4962-b32a-48584dc452e8.jpg" alt="TextToast02"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176942868-94641bde-6279-4474-90ab-e08581513cd0.jpg" alt="TextToast03" height="600" />
+> <img src="https://user-images.githubusercontent.com/107466722/176942874-87ececeb-edec-4127-80c2-523439f139d7.jpg" alt="TextToast04" height="600" />
+
+> **16. RegistrationForm - Android Project**
+> 
+> <img src="https://user-images.githubusercontent.com/107466722/176943912-f1edbea8-6e32-4488-ae6b-57283a151bc6.jpg" alt="RegistrationForm01"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176943917-91e7776b-b856-447d-bee7-a49743b242a7.jpg" alt="RegistrationForm02"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176943925-a40ef912-bf65-4291-8e8a-e9705c7e709b.jpg" alt="RegistrationForm03"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176943941-f9b267a7-8876-4a29-bd58-94fb58b6efcf.jpg" alt="RegistrationForm04"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176943951-de786a52-166b-4072-bc1b-c7b0795b4d52.jpg" alt="RegistrationForm05"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176945589-19dfc1cf-e0a2-42b1-9f89-ae3ee487f9ec.jpg" alt="RegistrationForm06"  /> 
+> <img src="https://user-images.githubusercontent.com/107466722/176943958-77b6553f-8cfe-4448-bbb9-6cbbf4dc75ab.jpg" alt="RegistrationForm07" height="600" />
+> <img src="https://user-images.githubusercontent.com/107466722/176943973-4f36c7bf-a6fc-40dc-859f-a128bf7966a5.jpg" alt="RegistrationForm08" height="600" />
+> <img src="https://user-images.githubusercontent.com/107466722/176943980-3450b0ef-6341-47bd-a450-6afd290f7cad.jpg" alt="RegistrationForm09" height="600" />
