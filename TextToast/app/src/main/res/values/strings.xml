@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextToast</string>
+    <string name="enter_any_text">Enter Any Text</string>
+    <string name="submit">Submit</string>
+</resources>
