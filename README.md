@@ -1,4 +1,4 @@
-![Summer-Internship-Akash-Technolabs](https://user-images.githubusercontent.com/107466722/177007100-6d8c53b8-e8e5-44db-9b07-7cd55794de64.png)
+# Daily Internship Tasks.
 
 # 01. HelloWorld
 
